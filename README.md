@@ -1,0 +1,2 @@
+# SumCalculator
+Selfcheck SumCalculator
